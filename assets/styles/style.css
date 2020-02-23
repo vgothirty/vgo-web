@@ -1,0 +1,74 @@
+.card-love{
+    min-height: 220px;
+}
+
+.meet-he{
+    min-height: 150px;
+    min-width: 150px;
+}
+.img-h{
+    height: 150px;
+    width: 150px;
+}
+
+ul.fa-ul2 .lii:before {
+    content:'';
+    color: #6190C3;
+    padding-right: 5px;
+    margin-left: -1.9em;
+}
+
+.lii {
+    list-style-type: none;
+    display: block;
+    margin-left: 1em;
+    margin-top: 0.5em;
+}
+.entrepre-h{
+    height: 150px;
+    width: 150px;
+}
+.services-wrap {
+    padding-top: 50px  !important;
+    padding-bottom: 20px !important;
+}
+.services-wrapp{
+    padding: 2px  !important;
+}
+
+.img-vgo {
+    margin-top: 50px;
+}
+
+.part-w{
+    margin-left:75px ;
+}
+
+.light-gray {
+    background: #f8f9fa!important;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.03);
+}
+
+.img-vgo {
+    margin-top: 50px;
+    padding: 30px;
+    padding-top: 60px;
+}
+
+.services-wrap {
+    padding-top: 80px !important;
+    padding-bottom: 20px !important;
+}
+
+.contact-form-wrap .form-wrap form.form .form-group .form-control {
+    padding: 24px 0;
+    padding-left: 65px;
+    background:#f8f9fa;
+    border-radius: 20px;
+}
